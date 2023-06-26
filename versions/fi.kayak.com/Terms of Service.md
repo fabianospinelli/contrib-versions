@@ -1,0 +1,117 @@
+1. Emme myy matkatuotteita
+
+Verkkosivustomme on matkahakukone. KAYAK ei tarjoa, omista tai kontrolloi mitään matkapalveluita- tai tuotteita kuten lentoja, yöpymispaikkoja, vuokra-autoja, pakettimatkoja tai matkavakuutuksia (“Matkatuotteet“), joihin sinulla on pääsy sivuston kautta. Kolmannet osapuolet (“Matkantarjoajat“) omistavat, kontrolloivat tai tarjoavat (“Matkatuotteita“) joko suoraan (esim. lentoyhtiö) tai toimien agenttina (esim. verkossa toimiva matkatoimisto). Matkantarjoajat ovat vastuussa myymistään Matkatuotteista. Matkantarjoajien ehdot ja tietosuojakäytännöt ovat voimassa varauksesi osalta, joten sinun täytyy hyväksyä ja ymmärtää kyseiset ehdot. Itse Matkantarjoajan (lentoyhtiö, hotelli, matkanjärjestäjä jne.) säännöt koskevat matkaasi, joten sinun täytyy hyväksyä ja ymmärtää kyseiset säännöt. Yhteistyösi minkä tahansa Matkantarjoajan kanssa sivustomme kautta tapahtuu omalla vastuullasi eikä KAYAK ole vastuussa jos varauksen tai matkan aikana syntyy ongelmia.
+
+Kun Matkatuote tai Matkantarjoaja on esillä Verkkosivustollamme, ei se millään tasolla merkitse tai tarkoita sitä, että ne olisivat KAYAKin suosituksia tai ne perustuisivat sponsorointisuhteeseen tai faktaan, että Matkantarjoaja hyväksyisi KAYAK in tai molemmilla osapuolilla olisi joku kytkös KAYAK kanssa.
+
+KAYAK isännöi sisältöä mukaan lukien hintoja, jotka Matkantarjoajalla on hallussaan tai jotka se on tarjonnut. KAYAK ei ole millään tavoin vastuussa tällaisen sisällön paikkansa pitävyydestä, ajantasaisuudesta tai täydellisyydestä. Koska KAYAKilla ei ole kontrollia Matkatuotteisiin eikä se todenna Matkantarjoajan lataamaa sisältöä, emme voi taata Verkkosivustoillamme näkyviä hintoja. Hinnat muuttuvat jatkuvasti ja lisämaksut (esim. maksutapakulut, palvelumaksut, kirjattavien matkatavaroiden maksut, paikalliset verot ja maksut) voivat tulla kyseeseen, mistä syystä kannattaa aina tarkistaa että varaukselle annettu hinta vastaa odotuksia. Katso lisätietoja [täältä](https://www.fi.kayak.com/help/noguarantee). Jotkut Matkatuotteet voidaan myydä myös muussa kuin hakutuloksissa näkyvillä olevassa tai valitussa valuutassa. Muunnamme valuutat vain antaaksemme tietoja ja ne eivät aina välttämättä ole ajantasalla tai reaaliaikaisia. Lopulliset hinnat voivat vaihdella ja maksuja välittävä toimittaja (esimerkiksi luottokorttiyhtiö) voi vaihtaa käyttämiään kursseja tai käyttää jonkin toisen päivän valuuttakurssia.
+
+5. Varaaminen KAYAK-sivuston kautta
+
+Jos varaat Verkkosivustomme kautta Matkatuotteen, tapahtuu itse varaus varaussivustolla mainitun Matkantarjoajan sivustolla ja Verkkosivustomme toimii vain käyttöliittymänä. Tämän mukaisesti KAYAKilla ei ole vastuuta varauksesta tai Matkatuotteesta, koska KAYAK ei ole tekemisissä Matkatuotteen kuvauksen kanssa, sen hinnan tai maksujen määrittämisessä tai Matkatuotteen tarjoamisessa. Jos sinulla on varausta ja-/tai Matkatuotetta koskevia ongelmia tai erimielisyyksiä, hyväksyt, että hoidat ja ratkaiset ne Matkantarjoajan etkä meidän kanssa.
+
+7. Immateriaalioikeudet
+
+Me kuten myös yrityskumppanimme ja Matkantarjoajat sekä muut lisensoijat omistamme kaikki tekstit, ohjemistot, tavaramerkit, palvelumerkit tai kaikki muut Verkkosivustollamme olevat materiaalit lukuun ottamatta käyttäjien luoma sisältö. Et voi kopioida tai siirtää mitään materiaaleja muuhun kuin henkilökohtaiseen ei-kaupalliseen käyttöön. Kaikki Verkkosivustollamme esitetyt tekijänoikeudet, tavaramerkit ja muut omistusoikeutta koskevat ilmoitukset täytyy olla esillä papereissa, jotka tulostat. Verkkosivustollamme olevat muut kuin KAYAKin tuotteet, palvelut ja nimitykset kuuluvat kolmansille osapuolille ja ne voidaan mainita Verkkosivustolla vain tunnistus tarkoituksissa. Ota yhteyttä kolmansiin osapuoliin saadaksesi lisätietoja nimityksistä ja niiden statuksista. Verkkosivullemme pääsy tai sen käyttö ei takaa sinulle lisenssiä tai oikeutta käyttää sivuston huomautuksia.
+
+9. Verkkosivustomme käyttö
+
+Voit käyttää ja rekisteröityä Verkkosivustomme tai Trips-palvelun käyttäjäksi vain siinä tapauksessa, että oikeudellinen ikäsi on riittävä ja voit tehdä sitovia sopimuksia. Jos sinusta tulee rekisteröitynyt käyttäjä tai teet varauksen sen jälkeen, kun olet luonut Trips-tilin, olet vastuussa salasanojen turvallisuudesta, kirjautumisesta ja tilitiedoista. Olet vastuussa omasta Verkkosivustomme käytöstä, kaikista, jotka käyttävät salasanaasi ja kirjautumistietoja (luvallasi tai ilman) sekä kaikista, joille annat pääsyn matkasuunnitelmiisi. Kaikkien antamasi tietojen täytyy olla paikkansa pitäviä ja ajan tasalla olevia. Jos tietosi muuttuvat, täytyy ne päivittää heti. Jos sinulla on syytä uskoa, että tilisi käyttö ei ole enää turvallista (esim. katoaminen, varkaus tai luvaton luovuttaminen, tietojesi, tietokoneen tai mobiililaitteen käyttäminen Verkkosivustollemme pääsemiseksi) täytyy sinun viipymättä päivittää mahdolliset ongelmalliset henkilökohtaiset tietosi.
+
+Jos päätät vastaanottaa viestejä tai muuta viestintää Verkkosivustoltamme suoraan mobiililaitteeseen, olet yksin vastuussa siitä, että saamme tiedon myös päivitetystä puhelinnumerosta ja siitä, että päivität sovelluksen uusimpaan versioon sekä vastaat kaikista kuluista mitä viestien vastaanottamisesta voi syntyä. Emme ole vastuussa tietojen lähettämisestä vanhentuneen matkapuhelinnumeron sisältävään laitteeseen tai vanhentuneen sovellukseen käyttämiseen. Jos asennat ohjelmiston tai otat käyttöön palvelun, joka tallentaa tietoja Verkkosivustoltamme mille tahansa mobiililaitteelle tai tietokoneella ja tarkoituksenasi on siirtää tai hävittää tällainen laite, on velvollisuutesi estää luvaton pääsy tietoihisi tai tiliisi poistamalla tiedot ja estämällä pääsy niihin ennen hävittämistä.
+
+Voit käyttää Verkkosivustoamme vain laillisten matkatarjousten etsimiseen ja sinulla ei ole oikeutta käyttää Verkkosivuamme väärien, vilpilisten, ennakoivaan kysyntää tai spekulatiivisten varausten tekoon. Käyttämällä Verkkosivuamme sitoudut noudattamaan Yhdysvaltojen ja kotimaasi lakeja mukaan lukien teknisen informaation vientiä koskevia lakeja.
+
+Lisäksi sitoudut siihen, että et tee mitään seuraavista ilman KAYAKin kirjallista lupaa:
+
+(i) käytä sivustoa mihinkään muuhun manuaaliseen tai automaattiseen prosessiin kuin henkilökohtaiseen käyttöön tai KAYAKin sisällyttämiseen sivujen hakuindeksiin. Minkä tahansa automatisoidun järjestelmän tai ohjelmiston käyttö, jolla voidaan poimia tietoja Verkkosivustoltamme (“screen scraping”) kaupalliseen tai ei-kaupalliseen käyttöön on kiellettyä;  
+(ii) riko robottien otsikkorajoituksia Verkkosivustollamme ja ohita tai kierrä muita toimenpiteitä, joilla estetään tai rajoitetaan sivustollemme pääsyä;  
+(iii) muodosta syvää linkkiä (deep-link) mihinkään Verkkosivustomme osaan mitään tarkoitusta varten;  
+(iv) käytä mitään välinettä, ohjelmistoa tai rutiinia, joka häiritsee tai yrittää häiritä Verkkosivustomme normaalia toimintaa tai et ryhdy mihinkään toimenpiteeseen, joka saa aikaan kohtuuttoman kuormituksen tietokoneillemme tai muulle verkkolaitteistolle;  
+(v) et jäljittele, toista, kopioi, myy, anna vaihtokauppana, jälleenmyy tai käytä hyväksi sivustoamme tai matkapalveluamme;  
+(vi) käytä mitään Verkkosivustomme ominaisuutta laittomiin, sopimattomiin tai muihin tarkoituksiin, jotka olemme määritelleet;  
+(vii) lähetä tai jaa materiaalia Verkkosivuillamme, joka rikkoo jonkun kolmannen osapuolen oikeuksia tai tapaukseen sovellettavia lakeja;  
+(viii) käytä Verkkosivustoamme muiden henkilötietojen keräämiseen tai tallentamiseen;  
+(ix) käytä Verkkosivustoamme mihinkään kaupalliseen tarkoitukseen ilman kirjallista lupaamme;  
+(x) välitä mitään mainos- tai promootiomateriaaleja Verkkosivuillamme; tai  
+voimme koska tahansa yksinomaisen harkintamme perusteella ja ilman edeltävää ilmoitusta tai vastuuvelvollisuutta, keskeyttää, lopettaa tai rajoittaa pääsysi kaikkiin tai joihinkin Verkkosivustomme osiin. Voit myös poistaa tilisi milloin vain [täältä](https://www.fi.kayak.com/zap).
+
+Lisäksi suostut siihen, että et:
+
+* Kiertää, poistaa käytöstä tai muuten häiritä verkkosivustomme turvallisuuteen liittyviä ominaisuuksia tai ominaisuuksia, jotka estävät tai rajoittavat minkä tahansa sisällön käyttöä ja kopiointia tai pakottavat rajoituksia verkkosivustomme käytölle tai minkä tahansa verkkosivuston sisällön käytölle;
+* Toisen henkilön tai yhteisön jäljittely tai esittää muutoin harhaan väärin omia kytköksiään henkilöön tai yhteisöön;
+* Rikkoa tahallisesti tai tahattomasti tai rohkaista muita rikkomaan mitä tahansa sovellettavaa lakia, asetusta, määräyksiä tai ohjesääntöä;
+* Antaa vääriä tai harhaanjohtavia tietoja;
+* Henkilökohtaisten tietojen pyytäminen keneltäkään;
+* Poistaa, lisätä tai muuttaa muulla tavalla muiden käyttäjien luomaa sisältöä;
+* Poistaa tai muuttaa tekijänoikeuksia tai muita omaisuutta koskevia ilmoituksia verkkosivuston sisällön yhteydessä;
+* Julkisesti halventaa ketään tai mitä tahansa käyttäjäsisältöä;
+* Julkaise tai postata viestejä, joissa uhkaillaan väkivallalla tai mainostaa ja rohkaise toisia väkivaltatekoihin tai muuhun laittomaan toimintaan.
+
+Ilmoita sisällön väärinkäytöksistä osoitteeseen [TermsofuseAbuse@kayak.com](mailto:TermsofuseAbuse@kayak.com) jos havaitset sellaista tapahtuvan.
+
+18. Trips
+
+Jos käytät Trips-palvelua, olet yksin vastuussa matkoihin ja muihin sisältöihin liittyvistä materiaaleista, jotka lataat, siirrät tai jaat kanssamme tai muiden kanssa (kollektiivisesti matkasisältö ). Olet vastuussa siitä, että et siirrä tai jaa matkasisältöä, jota sinulla ei ole oikeutta jakaa. Sinun tehtävänäsi on luoda varmuuskopiot ja korvata mikä tahansa sisältö, jonka annat meille omalla kustannuksella.
+
+Kun annat meille matkasisältöä tai teet varauksen KAYAK:in kautta niin valtuutat meidät tekemään kopioita tarpeelliseksi katsomistamme osioista helpottaaksemme sisällön varastointia ja omaksumista. Meille antamaasi matkasisältöä toimittamalla lupaat ja takaat, että sinulla on oikeus antaa meille peruuttamattoman, jatkuvan, yksinoikeudettoman, siirrettävissä olevan, kokonaisuudessaan maksetun, maailmanlaajuisen lisenssin (oikeudella uudelleen lisenssointiin) käyttää, kopioida, muunnella, suorittaa julkisesti, esitellä julkisesti, formatoida uudelleen, kääntää, levittää, julkaista uudelleen, lainata (kokonaan tai osaksi) ja jaella kyseinen matkasisältö missä tarkoituksessa tahansa, kaupallisesti, mainonnassa tai muulla tavoin, Trips-palvelussa tai sen yhteydessä tai myynnin edistämisessä ja valmistella niistä johdannaistuotteita tai sisällyttää kyseinen matkasisältö muihin tuotteisiin. Voit poistaa matkasisältöä Trips-palvelusta milloin tahansa, mutta myöntämäsi lisenssi pysyy voimassa. Emme kontrolloi tai ole vastuussa matkasisällön arvioimisesta. Kuitenkin pidätämme oikeuden tarkistaa, muokata tai poistaa mitä tahansa tililtäsi löytyvää matkasisältöä koska tahansa.
+
+21. Immateriaalioikeutesi
+
+Kunnioitamme toisten immateriaalioikeuksia ja kiellämme käyttäjiä lataamasta, julkaisemasta tai lähettämästä millään tavoin Verkkosivustomme tai Trips-palvelun kautta materiaaleja, jotka rikkovat toisen henkilön immateriaalioikeuksia. Jos uskot, että tavaramerkkiäsi tai tekijänoikeuksiasi on loukattu, siirry omistusoikeusvalitusprosessiimme [lataa täältä (pdf 23 kB)](https://www.fi.kayak.com/cimg/sites/default/files/KAYAK%20DMCA%20FORM.pdf) ja noudata löytämiäsi ohjeita tai lähetä meille kirjallinen valitus osoitteeseen, joka löytyy osiossa 14.
+
+23. Takuun vastuuvapauslauseke
+
+Verkkosivustomme, kaikki sivustollamme järjestetty sisältö sekä kaikki Trips-palvelun kautta hankkimasi matkat järjestetään "sellaisenaan" ja "kuten saatavissa" -periaatteiden mukaisesti. Sisältömme luodaan pitkälti automatisoidusti ja virheitä voi tapahtua. Löydämme yleensä useita hakutuloksia, mutta tuloksemme eivät ole täysin kattavia ja emme näytä kaikkia saatavilla olevia palveluntarjoajia sekä tarjouksia. Näin ollen emme aina näytä edullisimpia saatavilla olevia hintoja. KAYAK nimenomaisesti kieltäytyy kaikista takuista, niin suoraan kuin epäsuoraan ilmastuista, mukaan lukien, mutta niihin rajoittumatta, kaikki oletetut epäsuorat takuudet liittyen soveltavuudesta kaupankäyntiin, oikeuksien loukkaamattomuudesta, sekä turvallisuudesta ja tarkkuudesta, joita tulee esiin liiketoiminnassa, kaupanteossa tai suoritusten yhteydessä.
+
+25. Vastuuvapautemme on rajoitettu
+
+Me (yhdessä toimihenkilöiden, johtajien, työntekijöiden, edustajien, osakkaiden yhteistyökumppaneiden ja palveluntarjoajien kanssa lain sallimisissa rajoissa irtisanoudumme täten, emmekä ole vastuussa seuraavista: (a) vahingoista tai vaurioista tai viruksista, jotka saattavat vioittaa tietokonelaitteistoa, tietokoneohjelmia, dataa tai muuta omistusoikeudellista aineistoa, sen seurauksena, että olet vieraillut Verkkosivustollamme tai ladannut jotain sisältöä tai käyttänyt Trips-palvelua tai (b) mikä tahansa vahingosta, kuolemantapauksesta, viasta, luonnonmullistuksista, onnettomuuksista, viivästyksistä tai mistään erityisistä, esimerkillisistä, rankaistavista, epäsuorista, satunnaisista tai välillisistä vahingoista (mukaan lukien, niihin rajoittumatta, menetetyt tulot tai säästöt), riippumatta siitä, perustuuko vastuu sopimukseen, oikeudenloukkaukseen, ankaraan vastuuseen tai mihinkään muuhun, joka aiheutuu seuraavista tai liittyy millään tavalla seuraaviin tai (i) jokin Verkkosivustomme, Trips-palvelun tai sisältömme käyttö tai (ii) jokin vika tai viivytys (mukaan lukien ja siihen rajoittumatta tämän Verkkosivuston minkään osan käyttö tai sen käytön kyvyttömyys varausten tekemiseen tai lippujen ostamiseen) tai (iii) meidän tai minkään palveluntarjoajan suorituskyky tai sen puute, vaikka meille olisi ilmoitettu sellaisille tahoille tai jollekin muulle taholle aiheutuvista mahdollista vahingoista.
+
+27. Suojelet meitä
+
+Näiden ehtojen nojalla olet vastuussa meille ja muille kumppaneille sekä kaikille toimihenkilöillemme, johtajillemme, työntekijöillemme ja asiamiehillemme kustannuksista, menetyksistä tai muista kuluista, joihin sisältyvät niihin rajoittumatta kohtuullisiin asianajo- ja kirjanpitopalkkioihin, jotka johtuvat tai jotka saattavat jollakin tavoin liittyä näiden ehtojen tai niiden osiksi viitteinä otettujen sopimusten rikkomiseen, tai siihen, että käytät Verkkosivustoamme, Trips-palvelua tai sisältöä tai immateriaalioikeuksia väärin.
+
+29. Linkit
+
+Verkkosivustomme saattaa sisältää linkkejä muille sivustoille, joita emme operoi tai kontrolloi sekä joista emme ole vastuussa ("Muut verkkosivustot"). Tarjoamme näitä linkkejä viitteiksi ja palveluna, emmekä tue Muiden verkkosivustojen sisältöjä emmekä ota vastuuta niistä tai mistään menetyksistä tai vahingoista, joita saattaa aiheutua siitä, että käytät niitä. Sinun on syytä katsoa erilliset, Muilla verkkosivustoilla esitetyt käyttöehdot, yksityisyyskäytännöt ja muut säännöt ennen sivustojen käyttämistä. Suostut olemaan muodostamatta mitään linkkiä Verkkosivustollemme miltään verkkosivustolta, mukaan lukien omassa hallinnassasi olevat verkkosivustot.
+
+31. Lentoyhtiöiden säännöt
+
+Lentoyhtiön sääntöjen kiertäminen esimerkiksi sellaisilla käytännöillä kuin niin sanottu "back-to-back ticketing" (ostetaan kaksi tai useampi lippu päällekkäisille matkapäiville kiertääkseen minimi perilläoloaika) ja "hidden-city ticketing" (ostaa lippuja jotka sisältävät segmenttejä, joita ostaja ei aio käyttää kiertääkseen lentoyhtiön hinnoittelurakenteen), ovat kiellettyjä useiden lentoyhtiöiden säännöissä. Kielettyjen lippujärjestelmien käyttäminen voi johtaa siihen, että lentoyhtiö voi peruuttaa lipun, evätä pääsyn lennolle, kumota kanta-asiakaspisteet tai muita etuja sekä mahdollisiin lisämaksuihin ostajan luottokortille, lentokentän lisämaksuihin tai tulevaan laskutukseen.
+
+33. KAYAK Mix
+
+KAYAK Mix -hintojen tapauksessa Verkkosivustomme näyttää hakutulokset erilaisten Matkatulosten yhdistelmistä esimerkiksi erilliset lento- ja hotellitulokset tai kaksi menomatkaa menopaluumatkan sijaan. Jos käytät näitä hakutuloksia, kirjoitetaan kaksi erillistä matkalippua, joihin voidaan soveltaa eri sääntöjä ja käytäntöjä (esimerkiksi matkatavaramaksut, muutosmaksut ja hyvitykset). Yhteen varaukseen tehdyt muutokset eivät vaikuta muihin varauksiin (esimerkiksi, jos peruutat tai lentoyhtiö peruuttaa ensimmäisen lentosi, toinen lentoyhtiö, jonka kanssa teit paikkavarauksen paluulentoa varten, ei ole velvollinen antamaan hyvitystä tai muuttamaan matkasuunnitelmaasi). Kansainvälisesti matkustettaessa sinun on mahdollisesti esitettävä lähtöselvityksessä ja passintarkastuksessa todiste paluulennosta.
+
+35. Yleiset vaatimukset
+
+Voimme muuttaa sivustoa ja näitä Ehtoja milloin tahansa oman harkintamme mukaan ja ilman erillistä ilmoitusta sinulle. Olet vastuussa siitä, että pysyt tietoisena näistä Ehdoista. Hyväksyt kaikki näihin Ehtoihin tehdyt muutokset, kun jatkat Verkkosivustomme käyttöä ja kaikki muutokset korvaavat kaikki aiemmat versiot Ehdoista. Jos ei toisin mainita kaikki näihin Ehtoihin tehdyt muutokset koskevat kaikkia käyttäjiä, myös niitä jotka käyttivät Verkkosivustoa ennen muutoksia. Voimme edelleen irtisanoa tämän sopimuksen näiden Ehtojen mukaisesti milloin tahansa ilmoittamalla sinulle kirjallisesti (sisältäen sähköpostilla tehdyn ilmoituksen) ja/tai jos olet rekisteröitynyt käyttäjä peruttaamalla tilisi tai pääsysi tiliin. Voit irtisanoa tämän sopimuksen kanssamme näiden Ehtojen mukaisesti milloin tahansa poistamalla tilisi ja lopettamalla Verkkosivustomme käytön.
+
+Minkään näissä Ehdoissa olevan ei katsota tekevän kummastakaan osapuolesta toisen osapuolen asiamiestä tai edustajaa, tai kumpaakaan osapuolta jotakin tarkoitusta varten luoduksi yhteisyritykseksi tai -kumppaniksi. Sinulla ei ole lupaa osoittaa, jakaa tai siirtää oikeuksiasi tai velvollisuuksiasi näiden Ehtojen mukaan. Saatamme osoittaa oikeutemme ja velvollisuutemme näiden Ehtojen mukaan, edellyttäen, että näiden Ehtojen mukaisia oikeuksiasi ei heikennetä. Yhtä tai useampia patentteja voidaan soveltaa tähän Verkkosivustoon ja sen ominaisuuksiin sekä palveluihin, joihin on pääsy Verkkosivuston kautta, mukaan lukien rajoituksetta Yhdysvaltojen patentit numerot: 8,095,536; 7,979,457; 7,917,387; 7,774,331; 7,668,811; 7,668,809; 7,627,606; 7,587,678; 7,483,883; 6,529,908.
+
+Mikäli emme ryhdy toimenpiteisiin, jos sinä tai joku muu rikkoo Ehtoja missä tahansa tilanteessa, se ei merkitse sitä, että luopuisimme oikeudesta toimenpiteisiin tulevaisuudessa tai vastaavanlaisissa rikkomuksissa. Jos tuomioistuimien mukaan joitain näistä Ehdoista ei voida laittaa täytäntöön tai ne ovat virheellisiä, kyseistä Ehtoa sovelletaan lain sallimissa rajoissa muiden Ehtojen pysyessä voimassa olevina ja täytäntöönpanokelpoisina. Nämä Ehdot sekä sopimukset, jotka ovat osa Ehtoja viitteiden muodossa, muodostavat välillämme olevan koko sopimuksen, joka koskee Verkkosivustomme käyttöä, mukaan lukien Trips-palvelua, ja korvaavat kaikki aikaisemmat, Verkkosivustomme käytön tulkinnat tai sopimukset (niin suulliset kuin kirjallisetkin).
+
+Lain sallimissa rajoissa, Sveitsin lait, riippumatta siitä ovatko ne lakisääntöjä vastaan, kattavat nämä Ehdot sekä sinun valvonnan niiden yli ja mitkä tahansa riidat sekä vaateet jotka nousevat niistä tai ovat suhteessa niihin tai ovat niiden aihe (mukaan lukien sopimussuhteen ulkopuoliset riidat tai saamiset). Jos ryhdyt minkäänlaisiin lakitoimiin liittyen Verkkosivustomme käyttöön, mukaan lukien Trips-palvelu, tai nämä Ehdot tai palvelumme, suostut siihen, että ryhdyt toimiin vain Zurichin tuomioistuimissa Sveitsissä. Jos olet kuluttaja, voi lakia sallia sinun nostavan kanteen asuinpaikkakuntasi tuomioistuimessa tai voit vastaavasti turvautua asuinpaikkakuntasi kuluttajansuojalain antamaan turvaan. Tällaisen kanteen tai aloittamamme toiminnan seurauksena on vallitseva osapuoli lain sallimissa puitteissa oikeutettu saamaan takaisin kaikki oikeudelliset kulut, jotka ovat syntyneet oikeustapauksen seurauksena, sisältäen mutta ei rajoittuen, sekä verotettaviin että ei verotettaviin kuluihin sekä kohtuullisiin asianajokuluihin. Lain vaatimissa rajoissa hyväksyt sen, että kaikki Verkkosivustoomme ja/tai näihin Ehtoihin liittyvät riidat, oikeustapaukset ja saamiset ratkaistaan yksittäistapauksina ilman ryhmäkanteita.
+
+40. Palautteesi
+
+Kehoitamme sinua jakamaan kommentteja ja kysymyksiä kanssamme [täältä](https://www.fi.kayak.com/feedback/form), mutta emme välttämättä pysty vastaamaan jokaiseen viestiin. Huomaa, ettemme ota vastuuta ei-toivottujen liiketoimintaideoiden tarkastuksesta (kuten tuote- tai mainosideat) ja emmekä vastaa seurauksista, jotka johtuvat samankaltaisuuksista näiden ideoiden ja KAYAKin tuotteissa tai palveluissa tulevaisuudessa mahdollisesti esiintyvän aineistojen välillä. Muista lisäksi, että olet vastuussa lähettämästäsi aineistosta, mukaan lukien sen luotettavuudesta, alkuperäisyydestä ja tekijänoikeuksista. Älä paljasta liikesalaisuuksia tai muita luottamuksellisia tietoja viesteissäsi. Kaikista meille lähetettyjen aineistojen oikeuksista tulee KAYAK:in yksinomaista omaisuutta. Lähettämällä palautetta annat meille oikeuden peruuttamattomaan, ikuiseen, ei-yksinomaiseen, siirrettävään, täysin maksettuun ja maailmanlaajuisen lisenssin (mukaan lukien oikeus uudelleenlisensioimiseeen) käyttää, kopioida, muokata, esittää julkisesti formatoida uudelleen, kääntää, levittää, julkaista uudelleen, lainata (kokonaan tai osaksi) ja jaella sinulta saamamme palaute mihin tarkoitukseen tahansa mukaan lukien kaupallinen, mainos tai markkinointi tai mainonta tarkoituksiin.
+
+Lakihuomautukset
+----------------
+
+Apple, Apple-logo, iPhone, iPad ja iPod touch ovat Apple Inc.:in rekisteröityjä tavaramerkkejä Yhdysvalloissa ja muissa maissa. App Store on Apple Inc.:in palvelumerkki. Android, Google Play ja Google Play -logo ovat Google Inc.:in rekisteröityjä tuotemerkkejä.
+
+Verkkosivustoamme operoi:
+-------------------------
+
+Lue nämä ehdot ja säännöt huolellisesti ennen kuin käytät tai hankit mitään aineistoja, tietoja, tuotteita tai palveluita. Sitoudut noudattamaan näitä ehtoja ja sääntöjä ("Ehdot") ja [Tietosuojakäytäntö](https://www.fi.kayak.com/privacy), kun käytät KAYAK-sivustoa, mobiili- tai tablettisovellusta tai mitä tahansa ominaisuutta KAYAKin alustoilla (kollektiivisesti ("Verkkosivustomme"). Jos et hyväksy kaikkia näitä ehtoja, et voi käyttää Verkkosivustoamme. Näissä ehdoissa "me", "medät", meidän" tai KAYAK viittaa yritykseen KAYAK Europe GmbH ja "sinä" tai "sinun" viittaa sinuun Verkkosivustomme käyttäjänä.
+
+NÄMÄ EHDOT SISÄLTÄVÄT VÄLITYSLAUSEKKEEN JA OIKEUDEN POISTON RYHMÄKANTEESEEN TAI EDUSTUKSELLISEEN OIKEUSJUTTUUN.
+
+Näitä Ehtoja voidaan muuttaa mistä syystä tahansa milloin tahansa Verkkosivustoa päivittämällä. Nämä muutokset eivät vaikuta oikeuksiin ja velvollisuuksiin, jotka ovat syntyneet ennen tehtyjä muutoksia. Kun jatkat Verkkosivustomme käyttöä sen jälkeen, kun olemme ilmoittaneet Ehtojen muuttumisesta, ovat käytön aikana voimassa olleet Ehdot edelleen ajankohtaiset. Tarkista nämä Ehdot määräajoin päivittääksesi tietosi koskien mahdollisia muutoksia. Mikäli vastustat jotain näiden Ehtojen osaa tai näihin Ehtoihin myöhemmin tehtyjä muutoksia, tai olet jostakin syystä tyytymätön Verkkosivustoomme, ainoa keinosi on lopettaa Verkkosivustomme käyttö välittömästi.
+
+KAYAK Europe GmbH Fraumünsterstrasse 16 8001 Zürich Switzerland
+
+Viimeksi päivitetty: 17. syyskuuta 2019
