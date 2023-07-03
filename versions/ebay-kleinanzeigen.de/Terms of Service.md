@@ -3,7 +3,7 @@ Allgemeine Nutzungsbedingungen für Kleinanzeigen
 
 ### **Diese Nutzungsbedingungen gelten ab dem 24. Juli 2020. Die bis zum 23. Juli 2020 geltenden Nutzungsbedingungen finden Sie [hier](https://themen.ebay-kleinanzeigen.de/nutzungsbedingungen_alt/).**
 
-Die Kleinanzeigen GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, betreibt unter der Bezeichnung „Kleinanzeigen“ eine deutschsprachige Website sowie weitere Dienste, lokale und mobile Anwendungen, Services und Tools (im Folgenden zusammen „Kleinanzeigen-Dienste“).
+Die kleinanzeigen.de GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, betreibt unter der Bezeichnung „Kleinanzeigen“ eine deutschsprachige Website sowie weitere Dienste, lokale und mobile Anwendungen, Services und Tools (im Folgenden zusammen „Kleinanzeigen-Dienste“).
 
 Diese Allgemeinen Nutzungsbedingungen (im Folgenden „Nutzungsbedingungen“) enthalten die grundlegenden Regeln für die Nutzung der Kleinanzeigen-Dienste. Von diesen Bedingungen abweichende Geschäftsbedingungen des Nutzers finden keine Anwendung, wenn sie von Kleinanzeigen nicht schriftlich bestätigt worden sind.
 
@@ -20,7 +20,7 @@ Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertr
 
 Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses.
 
-Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Kleinanzeigen GmbH, Albert- Einstein-Ring 26, 14532 Kleinmachnow, Telefonnummer: +49 30 81097979, E-Mail: service@kleinanzeigen.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (kleinanzeigen.de GmbH, Albert- Einstein-Ring 26, 14532 Kleinmachnow, Telefonnummer: +49 30 81097979, E-Mail: service@kleinanzeigen.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
@@ -40,7 +40,7 @@ Ihr Widerrufsrecht erlischt vorzeitig, wenn wir die geschuldete Dienstleistung v
 
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
-* An Kleinanzeigen GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, E-Mail: service@kleinanzeigen.de:
+* An kleinanzeigen.de GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, E-Mail: service@kleinanzeigen.de:
 * Hiermit widerrufe(n) ich/wir ( \* ) den von mir/uns ( \* ) abgeschlossenen Vertrag über den Kauf der folgenden Waren ( \* )/ die Erbringung der folgenden Dienstleistung ( \* )
     
 * Bestellt am ( \* )/erhalten am ( \* )
@@ -63,7 +63,7 @@ Allgemeine Nutzungsbedingungen für Kleinanzeigen
 
 ### **Diese Nutzungsbedingungen gelten ab dem 24. Juli 2020. Die bis zum 23. Juli 2020 geltenden Nutzungsbedingungen finden Sie [hier](https://themen.ebay-kleinanzeigen.de/nutzungsbedingungen_alt/).**
 
-Die Kleinanzeigen GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, betreibt unter der Bezeichnung „Kleinanzeigen“ eine deutschsprachige Website sowie weitere Dienste, lokale und mobile Anwendungen, Services und Tools (im Folgenden zusammen „Kleinanzeigen-Dienste“).
+Die kleinanzeigen.de GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, betreibt unter der Bezeichnung „Kleinanzeigen“ eine deutschsprachige Website sowie weitere Dienste, lokale und mobile Anwendungen, Services und Tools (im Folgenden zusammen „Kleinanzeigen-Dienste“).
 
 Diese Allgemeinen Nutzungsbedingungen (im Folgenden „Nutzungsbedingungen“) enthalten die grundlegenden Regeln für die Nutzung der Kleinanzeigen-Dienste. Von diesen Bedingungen abweichende Geschäftsbedingungen des Nutzers finden keine Anwendung, wenn sie von Kleinanzeigen nicht schriftlich bestätigt worden sind.
 
@@ -80,7 +80,7 @@ Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertr
 
 Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses.
 
-Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Kleinanzeigen GmbH, Albert- Einstein-Ring 26, 14532 Kleinmachnow, Telefonnummer: +49 30 81097979, E-Mail: service@kleinanzeigen.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (kleinanzeigen.de GmbH, Albert- Einstein-Ring 26, 14532 Kleinmachnow, Telefonnummer: +49 30 81097979, E-Mail: service@kleinanzeigen.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
@@ -100,7 +100,7 @@ Ihr Widerrufsrecht erlischt vorzeitig, wenn wir die geschuldete Dienstleistung v
 
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
-* An Kleinanzeigen GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, E-Mail: service@kleinanzeigen.de:
+* An kleinanzeigen.de GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, E-Mail: service@kleinanzeigen.de:
 * Hiermit widerrufe(n) ich/wir ( \* ) den von mir/uns ( \* ) abgeschlossenen Vertrag über den Kauf der folgenden Waren ( \* )/ die Erbringung der folgenden Dienstleistung ( \* )
     
 * Bestellt am ( \* )/erhalten am ( \* )
@@ -252,7 +252,7 @@ Ihr Widerrufsrecht erlischt vorzeitig, wenn wir die geschuldete Dienstleistung v
   
   
 
-1. Der Nutzer kann den Nutzungsvertrag, soweit nicht anders vereinbart, z.B. im Rahmen eines Service-Paketes, jederzeit ohne Einhaltung einer Kündigungsfrist in Textform kündigen. Dazu genügt die Übersendung einer Kündigungserklärung per E-Mail an den Kundenservice von Kleinanzeigen (service@kleinanzeigen.de) oder postalisch an: Kleinanzeigen GmbH – Nutzeranfragen, Albert-Einstein-Ring 26, 14532 Kleinmachnow. Im Falle einer Kündigung während einer laufenden kostenpflichtigen Zusatzleistung besteht kein Anspruch auf (anteilige) Rückzahlung.
+1. Der Nutzer kann den Nutzungsvertrag, soweit nicht anders vereinbart, z.B. im Rahmen eines Service-Paketes, jederzeit ohne Einhaltung einer Kündigungsfrist in Textform kündigen. Dazu genügt die Übersendung einer Kündigungserklärung per E-Mail an den Kundenservice von Kleinanzeigen (service@kleinanzeigen.de) oder postalisch an: kleinanzeigen.de GmbH – Nutzeranfragen, Albert-Einstein-Ring 26, 14532 Kleinmachnow. Im Falle einer Kündigung während einer laufenden kostenpflichtigen Zusatzleistung besteht kein Anspruch auf (anteilige) Rückzahlung.
 2. Kleinanzeigen kann den Nutzungsvertrag jederzeit ordentlich mit einer Frist von 30 Tagen kündigen. Ist zwischen dem Nutzer und Kleinanzeigen eine Vereinbarung über eine kostenpflichtige, mit einer bestimmten Laufzeit verbundenen Zusatzleistung zustande gekommen, und endet die vereinbarte Laufzeit erst nach dem in Satz 1 bestimmten Zeitpunkt, ist eine Kündigung durch Kleinanzeigen nur mit einer Frist von 30 Tagen zum Ende der vereinbarten Laufzeit der Zusatzleistung möglich. Gegenüber gewerblichen Nutzern wird Kleinanzeigen die Kündigung auf einem dauerhaften Datenträger (z.B. E-Mail) begründen, wobei sich die Gründe u.a. aus § 6 Nr. 1 und Nr. 2 dieser Nutzungsbedingungen ergeben können. Der Nutzer darf ab Zugang einer durch Kleinanzeigen erklärten Kündigung keine neuen Leistungen von Kleinanzeigen mehr buchen. Die Frist gilt nicht, sofern die Kündigung aufgrund von zwingenden gesetzlichen Bestimmungen oder behördlicher Anordnung erfolgt. Kleinanzeigen wird dem Nutzer dies gesondert begründen, sofern dem keine zwingenden Gründe entgegenstehen. Das Recht von Kleinanzeigen zur Löschung einzelner Anzeigen, zur Sperrung von Nutzern und zur Durchführung sonstiger Maßnahmen nach § 6 sowie das Recht zur fristlosen Kündigung aus wichtigem Grund bleiben unberührt.
 3. Mit Beendigung des Nutzungsvertrages werden alle laufenden Anzeigen des Nutzers aus den Kleinanzeigen-Diensten entfernt und das Nutzerkonto des Nutzers deaktiviert. Ein Zugriff auf das Nutzerkonto durch den Nutzer besteht ab diesem Zeitpunkt nicht mehr. Das Nutzerkonto und alle dazu gespeicherten Daten des Nutzers werden spätestens sechs Monate nach Vertragsbeendigung gelöscht. Dies gilt nicht für Daten, zu deren Aufbewahrung Kleinanzeigen gesetzlich verpflichtet ist oder an deren Aufbewahrung ein berechtigtes Interesse hat, z.B. um nach einer berechtigten Sperrung ein erneutes Anmelden zu verhindern. Aggregierte Daten, die durch die Nutzung generiert wurden, können grundsätzlich auch nach Vertragsende weiterhin aufbewahrt werden.
 4. Kleinanzeigen behält sich außerdem das Recht vor, Nutzerkonten mit unvollständigen Registrierungsdaten und Nutzerkonten, die für einen Zeitraum von mindestens 12 Monaten inaktiv waren, unwiderruflich zu deaktivieren und zu löschen. Kleinanzeigen wird den Nutzer mindestens 30 Tage vor Löschung des Nutzerkontos entsprechend auf einem dauerhaften Datenträger (z.B. per E-Mail) benachrichtigen.
